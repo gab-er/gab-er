@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30"/> Hey there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> 
+## Hey there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> 
 
 I'm Gabriel, a highly motivated Computer Science undergraduate student from the National University Of Singapore (NUS), with a passion for front-end and back-end development!
 
@@ -48,6 +48,9 @@ HTML Tag
 
 Typing animation
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=I'm+Gabriel!)](https://git.io/typing-svg)
+
+Confetti
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
