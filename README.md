@@ -8,7 +8,7 @@ I'm a highly motivated Computer Science undergraduate student from the National 
 
 ## 💎Projects
 
-- [TypeStorm](https://type-storm-eight.vercel.app/) <br>
+- [TypeStorm](https://type-storm-eight.vercel.app/) <br> 
   A minimalistic typing-test website for users to practice typing and improve their typing speeds.
 
 ## ⚡Tech Stack
@@ -31,6 +31,9 @@ I'm a highly motivated Computer Science undergraduate student from the National 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 <!--
 **gab-er/gab-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
