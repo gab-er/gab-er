@@ -8,7 +8,7 @@ I'm a highly motivated Computer Science undergraduate student from the National 
 
 ## 💎Projects
 
-<img src="./TypeStormCircularLogo.png" alt="TypeStorm" width="100"/> <br>
+ <a href="https://type-storm-eight.vercel.app/"> <img src="./TypeStormCircularLogo.png" alt="TypeStorm" width="100"/> </a> <br>
 A minimalistic typing-test website for users to practice typing and improve their typing speeds.
 
 ## ⚡Tech Stack
