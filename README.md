@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"/> 
 
-I'm Gabriel, a highly motivated Computer Science undergraduate student from the National University Of Singapore (NUS), with a passion for front-end and back-end development!
+I'm Gabriel, a highly motivated Computer Science undergraduate student from the National University Of Singapore (NUS), with a passion for software development!
 
 ### 🌐Connect with me! <br />
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabriel-er/)
